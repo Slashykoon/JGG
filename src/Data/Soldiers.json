@@ -1,0 +1,101 @@
+{
+	"USMC_Garand_43": {
+		"Name": "Soldier USMC M1 Garand",
+		"Type": "Standard",
+		"Gun": "US_Garand",
+		"Sprite_Prone": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Crouch": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Run": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Stand": [
+			{
+				"Path": "res://assets/sprites/USMC/Stand/sold_us_43.png",
+				"FrameNumber": "3",
+				"GunShotPosition": "40.2,-41.88"
+			}
+		]
+	},
+	"USMC_Thompson_43": {
+		"Name": "Soldier USMC M1 Thompson",
+		"Type": "Assault",
+		"Gun": "US_Thompson",
+		"Sprite_Prone": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Crouch": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Run": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Stand": [
+			{
+				"Path": "res://assets/sprites/USMC/Stand/sold_us_ass_43.png",
+				"FrameNumber": "1",
+				"GunShotPosition": "20.0,-3.0"
+			}
+		]
+	},
+	"USMC_Carb_43": {
+		"Name": "Soldier USMC M1 Carbine",
+		"Type": "Assault",
+		"Gun": "US_Carbine",
+		"Sprite_Prone": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Crouch": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Run": [
+			{
+				"Path": "",
+				"FrameNumber": "",
+				"GunShotPosition": ""
+			}
+		],
+		"Sprite_Stand": [
+			{
+				"Path": "res://assets/sprites/USMC/Stand/USMC_M1_CARB_STAND.png",
+				"FrameNumber": "2",
+				"GunShotPosition": "20.0,-3.0"
+			}
+		]
+	}
+}

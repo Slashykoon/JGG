@@ -1,0 +1,50 @@
+<Soldiers>
+	<Soldier id="USMC_Garand_43">
+		<Name>Soldier USMC M1 Garand</Name>
+		<Type>Standard</Type>	
+		<Sprite name="Stand">
+			<Path>res://assets/sprites/USMC/Stand/sold_us_43.png</Path>
+			<FrameNumber>3</FrameNumber>
+			<GunShotPosition>50,50</GunShotPosition>
+		</Sprite>
+		<Sprite name="Run"></Sprite>
+		<Sprite name="Crouch"></Sprite>
+		<Sprite name="Prone"></Sprite>
+	</Soldier>
+	<Soldier id="USMC_Thompson_43">
+		<Name>Soldier USMC M1 Thompson</Name>
+		<Type>Standard</Type>
+		<Sprite name="Stand">
+			<Path>res://assets/sprites/USMC/Stand/sold_us_ass_43.png</Path>
+			<FrameNumber>1</FrameNumber>
+			<GunShotPosition>50,50</GunShotPosition>
+		</Sprite>
+		<Sprite name="Run"></Sprite>
+		<Sprite name="Crouch"></Sprite>
+		<Sprite name="Prone"></Sprite>
+	</Soldier>
+</Soldiers>
+
+
+{
+    "USMC_Garand_43" : {
+        "Name": "Soldier USMC M1 Garand",
+        "Type": "i710",
+		"Sprite_Run": 2012,
+		"Sprite_Crouch": 2012,
+		"Sprite_Prone": 2012,
+		"Sprite_Stand": [
+							{
+								"Path": "entity_0",
+								"FrameNumber": "value_0"
+								"GunShotPosition": "value_0"
+							}
+						]
+                
+    },
+    "USMC_Thompson_43" : {
+        "name": "nokia",
+        "model": "n73",
+        "year": 2013
+    }
+}

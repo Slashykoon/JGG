@@ -1,0 +1,27 @@
+{
+	"USMC_Inf_43": {
+		"Name": "USMC Rifle Squad 1943",
+		"Type": "Standard",
+		"Infantry": [
+			{
+				"1": "USMC_Garand_43",
+				"2": "USMC_Garand_43",
+				"3": "USMC_Garand_43",
+				"4": "USMC_Garand_43",
+				"5": "USMC_Thompson_43"
+			}
+		]
+	},
+	"USMC_Ass_43": {
+		"Name": "USMC Assault Squad 1943",
+		"Type": "Standard",
+		"Infantry": [
+			{
+				"1": "USMC_Thompson_43",
+				"2": "USMC_Thompson_43",
+				"3": "USMC_Carb_43",
+				"4": "USMC_Garand_43"
+			}
+		]
+	}
+}

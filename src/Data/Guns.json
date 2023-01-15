@@ -1,0 +1,23 @@
+{
+	"US_Garand": {
+		"Name": "M1 Garand",
+		"Type": "Rifle",
+		"AmmoBurst": "0",
+		"AmmoClip": "8",
+		"TimeBtwBurst": "1"
+	},
+	"US_Thompson": {
+		"Name": "M1 Thompson",
+		"Type": "SubMachineGun",
+		"AmmoBurst": "4",
+		"AmmoClip": "32",
+		"TimeBtwBurst": "0.4"
+	},
+	"US_Carbine": {
+		"Name": "M1 Carbine",
+		"Type": "Rifle",
+		"AmmoBurst": "1",
+		"AmmoClip": "10",
+		"TimeBtwBurst": "0.8"
+	}
+}
